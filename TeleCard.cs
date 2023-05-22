@@ -56,6 +56,7 @@ namespace WinFormsApp2
             }
             return answer;
         }
+        //change data
         public string ChangeBuy()
         {
             string answer = "ваш заказ: \n";
