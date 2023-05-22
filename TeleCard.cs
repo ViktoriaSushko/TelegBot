@@ -72,5 +72,10 @@ namespace WinFormsApp2
             }
             return answer;
         }
+        //add search category
+        public string Search_category()
+        {
+            return $"";
+        }
     }
 }
