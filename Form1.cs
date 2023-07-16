@@ -16,7 +16,7 @@ namespace WinFormsApp2
             InitializeComponent();            
             Init();
         }
-
+        //Init
         private void Init()
         {
             timer1.Enabled = true;
