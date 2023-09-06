@@ -21,6 +21,7 @@ namespace WinFormsApp2
         {
             timer1.Enabled = true;
             teleClass = new TeleClass(textBox1);
+            //гне6ге67г
         }
 
         private void timer1_Tick(object sender, EventArgs e)
